@@ -1,0 +1,31 @@
+// Name: Lixing Lian
+// E-mail: lixing@stanford.edu
+
+The parser is used to read Decaf source programs and construct a parse tree. If no syntax errors are encountered, it will print the completed parse tree as flat text.
+
+Error handling explorations:
+
+To Generate the parser, it is necessary to add the rules for each of the Decaf grammar features.
+
+If the input is not syntactically valid, the default behavior of the parser is to call yyerror to print a message and halt parsing.
+
+For this parser, it can handles several errors, such as 
+
+1. function declaration formals errors, 
+2. variable declaration errors, 
+3. generic expression errors, 
+4. function call actuals errors
+5. if-else statement expression errors. 
+
+All of these errors can be sucessfully decteted and reported by using this parser.
+
+For example, if the text contains "x = 123.4.554;", the parser can detect that it is not satisfied the expression rules "'LValue' '=' 'Constant'", where 'Constant' contains intType, boolType, stringType, doubleType and array.
+
+Consequently, it will report error as following:
+
+*** Error line 2.
+  x = 123.4.554;
+            ^^^
+*** syntax error
+
+The parser will report the error line, point out the error position and indicate that it is the syntax error.

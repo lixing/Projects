@@ -1,0 +1,3 @@
+It implements a back end for the compiler that will generate code to be executed on the SPIM simulator.
+
+This pass of the compiler will traverse the abstract syntax tree, stringing together the appropriate TAC instructions for each subtree--to assign a variable, call a function, or whatever is needed. Those TAC instructions are then translated into MIPS assembly via a translator class that deals with the more grungy details of the machine code. It will do code generation for all of the decaf language as well as reporting link and run-time errors.

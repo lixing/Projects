@@ -1,0 +1,28 @@
+This is a semantic analyzer for compiler. It will traverse the parse tress as many times as is necessary and validate that the semantic rules of the language are being respected, printing appropriate error messages for violations.
+For example, arithmetic operations require numbers; the actual parameters in a call must be compatible with the formal parameter; variables must be declared and can only be used in ways that are acceptable for the declared type...
+ 
+It aims to check the following rules:
+1.      UntermComment
+2.	LongIdentifier
+3.	UntermString
+4.	UnrecogChar
+5.	DeclConflict
+6.	OverrideMismatch
+7.	InterfaceNotImplemented
+8.	IdentifierNotDeclared
+9.	IncompatibleOperand
+10.	IncompatibleOperands
+11.	ThisOutsideClassScope
+12.	BracketsOnNonArray(Expr *baseExpr); 
+13.	SubscriptNotInteger(Expr *subscriptExpr);
+14.	NewArraySizeNotInteger(Expr *sizeExpr);
+15.	NumArgsMismatch
+16.	ArgMismatch
+17.	PrintArgMismatch
+18.	FieldNotFoundInBase
+19.	InaccessibleField
+20.	TestNotBoolean
+21.	ReturnMismatch
+22.	BreakOutsideLoop
+ 
+There is individual check method for each node. Each expression, statement and type should be matched to the declaration. Based on the regular structures and rules, if there's any wrong declaration or mistake, they will be report by calling the corresponding methods in "error.cc".
