@@ -1,0 +1,35 @@
+<XMLConfigFile>
+  <A227857>
+    <AccountNumber>,B1234567890</AccountNumber>
+    <AccountType_B1234567890>Checking</AccountType_B1234567890>
+    <Amount_B1234567890>111.23</Amount_B1234567890>
+  </A227857>
+  <A363158>
+    <AccountNumber>,B1111111111,B0830300024</AccountNumber>
+    <AccountType_B1111111111>Certificate</AccountType_B1111111111>
+    <Amount_B1111111111>122</Amount_B1111111111>
+    <AccountType_B0830300024>Certificate</AccountType_B0830300024>
+    <Amount_B0830300024>123</Amount_B0830300024>
+  </A363158>
+  <A516360>
+    <AccountNumber>,B0830300023,B0830300022</AccountNumber>
+    <AccountType_B0830300023>Savings</AccountType_B0830300023>
+    <Amount_B0830300023>12357</Amount_B0830300023>
+    <AccountType_B0830300022>Certificate</AccountType_B0830300022>
+    <Amount_B0830300022>0</Amount_B0830300022>
+  </A516360>
+  <A883417>
+    <AccountNumber>,B2222222222,B1333333333,B1231231231</AccountNumber>
+    <AccountType_B2222222222>Certificate</AccountType_B2222222222>
+    <Amount_B2222222222>123</Amount_B2222222222>
+    <AccountType_B1333333333>Savings</AccountType_B1333333333>
+    <Amount_B1333333333>0</Amount_B1333333333>
+    <AccountType_B1231231231>Checking</AccountType_B1231231231>
+    <Amount_B1231231231>0</Amount_B1231231231>
+  </A883417>
+  <A201696>
+    <AccountNumber>,B0630100048</AccountNumber>
+    <AccountType_B0630100048>Savings</AccountType_B0630100048>
+    <Amount_B0630100048>999999999</Amount_B0630100048>
+  </A201696>
+</XMLConfigFile>

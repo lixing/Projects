@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+   android:background="@drawable/entername"
+>
+<TextView
+android:id="@+id/EnterName"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Please Enter your Name:"
+android:textColor="#ff000000"
+android:textSize="15px"
+android:layout_x="70px"
+android:layout_y="108px"
+>
+</TextView>
+<EditText
+android:id="@+id/username"
+android:layout_width="189px"
+android:layout_height="wrap_content"
+android:text=""
+android:textSize="18sp"
+android:layout_x="60px"
+android:layout_y="144px"
+>
+</EditText>
+<Button
+android:id="@+id/confirmbutton"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Go to Game Menu!"
+android:layout_x="78px"
+android:layout_y="206px"
+>
+</Button>
+</AbsoluteLayout>

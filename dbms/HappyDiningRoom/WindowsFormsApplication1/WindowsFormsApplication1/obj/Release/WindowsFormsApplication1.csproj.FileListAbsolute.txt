@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\Interop.MediaPlayer.dll
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.AddCustomer.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.buy.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.GroceryStore.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.main.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Menu.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Mycookie.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Warehouse.resources
+C:\Users\hp\Desktop\HappyDiningRoom\HappyDiningRoom\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache

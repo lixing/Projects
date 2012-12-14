@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+ 
+  <TextView android:id="@+id/player" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_x="0px"
+            android:layout_y="0px"
+
+			android:text="" />
+  
+			<TextView android:id="@+id/showstep" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_x="0px"
+            android:layout_y="20px"
+			android:text="" />
+			
+			<TextView android:id="@+id/count" 
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_x="0px"
+            android:layout_y="40px"
+			android:text="" />
+			
+			<TextView android:id="@+id/command" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" 
+			android:layout_x="0px"
+            android:layout_y="60px"
+
+			android:text="" />
+	
+      <Button
+      android:id="@+id/button10"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_x="210px"
+      android:layout_y="14px"
+      android:text="Hint"/>
+
+  <puzzle.game.BlockView
+android:id="@+id/draw"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:layout_x="0px"
+android:layout_y="45px"
+
+/>
+</AbsoluteLayout>

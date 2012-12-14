@@ -1,0 +1,376 @@
+<html xmlns:lxslt="http://xml.apache.org/xslt" xmlns:stringutils="xalan://org.apache.tools.ant.util.StringUtils">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>Unit Test Results: TestTry.ConnectSqlTest</title>
+<link rel="stylesheet" type="text/css" title="Style" href="../stylesheet.css">
+<script type="text/javascript" language="JavaScript">
+        var TestCases = new Array();
+        var cur;
+        
+    cur = TestCases['TestTry.ConnectSqlTest'] = new Array();
+    
+        cur['ant.core.lib'] = 'E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145\\lib\\ant.jar';
+    
+        cur['ant.file'] = 'C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking\\build.xml';
+    
+        cur['ant.file.Equipment Booking'] = 'C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking\\build.xml';
+    
+        cur['ant.home'] = 'E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145';
+    
+        cur['ant.java.version'] = '1.6';
+    
+        cur['ant.library.dir'] = 'E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145\\lib';
+    
+        cur['ant.project.name'] = 'Equipment Booking';
+    
+        cur['ant.version'] = 'Apache Ant version 1.7.1 compiled on June 27 2008';
+    
+        cur['awt.toolkit'] = 'sun.awt.windows.WToolkit';
+    
+        cur['basedir'] = 'C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking';
+    
+        cur['debuglevel'] = 'source,lines,vars';
+    
+        cur['ECLIPSE_HOME'] = 'E:/eclipse';
+    
+        cur['eclipse.pdebuild.home'] = '/E:/eclipse/plugins/org.eclipse.pde.build_3.5.0.v20090527-1800/./';
+    
+        cur['eclipse.pdebuild.scripts'] = '/E:/eclipse/plugins/org.eclipse.pde.build_3.5.0.v20090527-1800/scripts/';
+    
+        cur['eclipse.pdebuild.templates'] = '/E:/eclipse/plugins/org.eclipse.pde.build_3.5.0.v20090527-1800/templates/';
+    
+        cur['env.ALLUSERSPROFILE'] = 'C:\\ProgramData';
+    
+        cur['env.ANT_HOME'] = 'E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145';
+    
+        cur['env.APPDATA'] = 'C:\\Users\\computer\\AppData\\Roaming';
+    
+        cur['env.asl.log'] = 'Destination=file;OnFirstLog=command,environment,parent';
+    
+        cur['env.CLASSPATH'] = '.;C:\\Program Files\\Java\\jdk1.6.0_24\\lib;C:\\Program Files\\Java\\jdk1.6.0_24\\lib\\dt.jar;%JAVA_HOM E%\\lib\\tools.jar;C:\\Program Files\\Java\\jre6\\lib\\ext\\QTJava.zip';
+    
+        cur['env.CommonProgramFiles'] = 'C:\\Program Files\\Common Files';
+    
+        cur['env.COMPUTERNAME'] = 'YVES-PC';
+    
+        cur['env.ComSpec'] = 'C:\\Windows\\system32\\cmd.exe';
+    
+        cur['env.configsetroot'] = 'C:\\Windows\\ConfigSetRoot';
+    
+        cur['env.FP_NO_HOST_CHECK'] = 'NO';
+    
+        cur['env.HOMEDRIVE'] = 'C:';
+    
+        cur['env.HOMEPATH'] = '\\Users\\computer';
+    
+        cur['env.JAVA_HOME'] = 'C:\\Program Files\\Java\\jdk1.6.0_24';
+    
+        cur['env.LOCALAPPDATA'] = 'C:\\Users\\computer\\AppData\\Local';
+    
+        cur['env.LOGONSERVER'] = '\\\\YVES-PC';
+    
+        cur['env.NUMBER_OF_PROCESSORS'] = '2';
+    
+        cur['env.OS'] = 'Windows_NT';
+    
+        cur['env.Path'] = 'C:/Program Files/Java/jdk1.6.0_24/bin/../jre/bin/client;C:/Program Files/Java/jdk1.6.0_24/bin/../jre/bin;C:\\Program Files\\Java\\jdk1.6.0_24\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Program Files\\ThinkPad\\ConnectUtilities\\;C:\\Program Files\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Common Files\\Adobe\\AGL;C:\\Program Files\\Common Files\\Thunder Network\\KanKan\\Codecs;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\WiFi\\bin\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\ICBCEbankTools\\Gemplus\\GemSafe Libraries\\BIN\\;C:\\Program Files\\MySQL\\MySQL Server 5.5\\bin;C:\\Program Files\\Microsoft SQL Server\\80\\Tools\\BINN;C:\\Program Files\\QuickTime\\QTSystem\\;';
+    
+        cur['env.PATHEXT'] = '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC';
+    
+        cur['env.PROCESSOR_ARCHITECTURE'] = 'x86';
+    
+        cur['env.PROCESSOR_IDENTIFIER'] = 'x86 Family 6 Model 23 Stepping 6, GenuineIntel';
+    
+        cur['env.PROCESSOR_LEVEL'] = '6';
+    
+        cur['env.PROCESSOR_REVISION'] = '1706';
+    
+        cur['env.ProgramData'] = 'C:\\ProgramData';
+    
+        cur['env.ProgramFiles'] = 'C:\\Program Files';
+    
+        cur['env.PROMPT'] = '$P$G';
+    
+        cur['env.PSModulePath'] = 'C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\Modules\\';
+    
+        cur['env.PUBLIC'] = 'C:\\Users\\Public';
+    
+        cur['env.QTJAVA'] = 'C:\\Program Files\\Java\\jre6\\lib\\ext\\QTJava.zip';
+    
+        cur['env.SESSIONNAME'] = 'Console';
+    
+        cur['env.SystemDrive'] = 'C:';
+    
+        cur['env.SystemRoot'] = 'C:\\Windows';
+    
+        cur['env.TEMP'] = 'C:\\Users\\computer\\AppData\\Local\\Temp';
+    
+        cur['env.TMP'] = 'C:\\Users\\computer\\AppData\\Local\\Temp';
+    
+        cur['env.TPCCommon'] = 'C:\\PROGRA~1\\THINKV~1\\PrdCtr';
+    
+        cur['env.USERDOMAIN'] = 'YVES-PC';
+    
+        cur['env.USERNAME'] = 'computer';
+    
+        cur['env.USERPROFILE'] = 'C:\\Users\\computer';
+    
+        cur['env.windir'] = 'C:\\Windows';
+    
+        cur['file.encoding'] = 'GBK';
+    
+        cur['file.encoding.pkg'] = 'sun.io';
+    
+        cur['file.separator'] = '\\';
+    
+        cur['java.awt.graphicsenv'] = 'sun.awt.Win32GraphicsEnvironment';
+    
+        cur['java.awt.printerjob'] = 'sun.awt.windows.WPrinterJob';
+    
+        cur['java.class.path'] = 'C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking\\build\\classes;C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking\\WebContent\\WEB-INF\\lib\\jxl.jar;C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking\\WebContent\\WEB-INF\\lib\\mysql-connector-java-5.1.6-bin.jar;C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking\\WebContent\\WEB-INF\\lib\\servlet-api.jar;E:\\eclipse\\plugins\\org.junit_3.8.2.v20090203-1005\\junit.jar;C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking;C:\\Program Files\\Java\\jdk1.6.0_24\\lib;C:\\Program Files\\Java\\jdk1.6.0_24\\lib\\dt.jar;C:\\Program Files\\Java\\jre6\\lib\\ext\\QTJava.zip;E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145\\lib\\ant-launcher.jar;E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145\\lib\\ant.jar;E:\\eclipse\\plugins\\org.apache.ant_1.7.1.v20090120-1145\\lib\\ant-junit.jar';
+    
+        cur['java.class.version'] = '50.0';
+    
+        cur['java.endorsed.dirs'] = 'C:\\Program Files\\Java\\jre6\\lib\\endorsed';
+    
+        cur['java.ext.dirs'] = 'C:\\Program Files\\Java\\jre6\\lib\\ext;C:\\Windows\\Sun\\Java\\lib\\ext';
+    
+        cur['java.home'] = 'C:\\Program Files\\Java\\jre6';
+    
+        cur['java.io.tmpdir'] = 'C:\\Users\\computer\\AppData\\Local\\Temp\\';
+    
+        cur['java.library.path'] = 'C:\\Program Files\\Java\\jre6\\bin;.;C:\\Windows\\Sun\\Java\\bin;C:\\Windows\\system32;C:\\Windows;C:/Program Files/Java/jdk1.6.0_24/bin/../jre/bin/client;C:/Program Files/Java/jdk1.6.0_24/bin/../jre/bin;C:\\Program Files\\Java\\jdk1.6.0_24\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Program Files\\ThinkPad\\ConnectUtilities\\;C:\\Program Files\\ATI Technologies\\ATI.ACE\\Core-Static;C:\\Program Files\\Common Files\\Adobe\\AGL;C:\\Program Files\\Common Files\\Thunder Network\\KanKan\\Codecs;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\WiFi\\bin\\;c:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\;c:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\;C:\\Program Files\\ICBCEbankTools\\Gemplus\\GemSafe Libraries\\BIN\\;C:\\Program Files\\MySQL\\MySQL Server 5.5\\bin;C:\\Program Files\\Microsoft SQL Server\\80\\Tools\\BINN;C:\\Program Files\\QuickTime\\QTSystem\\;';
+    
+        cur['java.runtime.name'] = 'Java(TM) SE Runtime Environment';
+    
+        cur['java.runtime.version'] = '1.6.0_24-b07';
+    
+        cur['java.specification.name'] = 'Java Platform API Specification';
+    
+        cur['java.specification.vendor'] = 'Sun Microsystems Inc.';
+    
+        cur['java.specification.version'] = '1.6';
+    
+        cur['java.vendor'] = 'Sun Microsystems Inc.';
+    
+        cur['java.vendor.url'] = 'http://java.sun.com/';
+    
+        cur['java.vendor.url.bug'] = 'http://java.sun.com/cgi-bin/bugreport.cgi';
+    
+        cur['java.version'] = '1.6.0_24';
+    
+        cur['java.vm.info'] = 'mixed mode, sharing';
+    
+        cur['java.vm.name'] = 'Java HotSpot(TM) Client VM';
+    
+        cur['java.vm.specification.name'] = 'Java Virtual Machine Specification';
+    
+        cur['java.vm.specification.vendor'] = 'Sun Microsystems Inc.';
+    
+        cur['java.vm.specification.version'] = '1.0';
+    
+        cur['java.vm.vendor'] = 'Sun Microsystems Inc.';
+    
+        cur['java.vm.version'] = '19.1-b02';
+    
+        cur['junit.output.dir'] = 'junit';
+    
+        cur['line.separator'] = ' ';
+    
+        cur['os.arch'] = 'x86';
+    
+        cur['os.name'] = 'Windows 7';
+    
+        cur['os.version'] = '6.1';
+    
+        cur['path.separator'] = ';';
+    
+        cur['source'] = '1.6';
+    
+        cur['sun.arch.data.model'] = '32';
+    
+        cur['sun.boot.class.path'] = 'C:\\Program Files\\Java\\jre6\\lib\\resources.jar;C:\\Program Files\\Java\\jre6\\lib\\rt.jar;C:\\Program Files\\Java\\jre6\\lib\\sunrsasign.jar;C:\\Program Files\\Java\\jre6\\lib\\jsse.jar;C:\\Program Files\\Java\\jre6\\lib\\jce.jar;C:\\Program Files\\Java\\jre6\\lib\\charsets.jar;C:\\Program Files\\Java\\jre6\\lib\\modules\\jdk.boot.jar;C:\\Program Files\\Java\\jre6\\classes';
+    
+        cur['sun.boot.library.path'] = 'C:\\Program Files\\Java\\jre6\\bin';
+    
+        cur['sun.cpu.endian'] = 'little';
+    
+        cur['sun.cpu.isalist'] = 'pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86';
+    
+        cur['sun.desktop'] = 'windows';
+    
+        cur['sun.io.unicode.encoding'] = 'UnicodeLittle';
+    
+        cur['sun.java.launcher'] = 'SUN_STANDARD';
+    
+        cur['sun.jnu.encoding'] = 'GBK';
+    
+        cur['sun.management.compiler'] = 'HotSpot Client Compiler';
+    
+        cur['sun.os.patch.level'] = '';
+    
+        cur['target'] = '1.6';
+    
+        cur['user.country'] = 'CN';
+    
+        cur['user.dir'] = 'C:\\Users\\computer\\Desktop\\Equipment Booking\\Equipment Booking\\Equipment Booking\\Equipment Booking';
+    
+        cur['user.home'] = 'C:\\Users\\computer';
+    
+        cur['user.language'] = 'zh';
+    
+        cur['user.name'] = 'computer';
+    
+        cur['user.timezone'] = '';
+    
+        cur['user.variant'] = '';
+    </script><script type="text/javascript" language="JavaScript">
+        function displayProperties (name) {
+          var win = window.open('','JUnitSystemProperties','scrollbars=1,resizable=1');
+          var doc = win.document;
+          doc.open();
+          doc.write("<html><head><title>Properties of " + name + "</title>");
+          doc.write("<style type=\"text/css\">");
+          doc.write("body {font:normal 68% verdana,arial,helvetica; color:#000000; }");
+          doc.write("table tr td, table tr th { font-size: 68%; }");
+          doc.write("table.properties { border-collapse:collapse; border-left:solid 1 #cccccc; border-top:solid 1 #cccccc; padding:5px; }");
+          doc.write("table.properties th { text-align:left; border-right:solid 1 #cccccc; border-bottom:solid 1 #cccccc; background-color:#eeeeee; }");
+          doc.write("table.properties td { font:normal; text-align:left; border-right:solid 1 #cccccc; border-bottom:solid 1 #cccccc; background-color:#fffffff; }");
+          doc.write("h3 { margin-bottom: 0.5em; font: bold 115% verdana,arial,helvetica }");
+          doc.write("</style>");
+          doc.write("</head><body>");
+          doc.write("<h3>Properties of " + name + "</h3>");
+          doc.write("<div align=\"right\"><a href=\"javascript:window.close();\">Close</a></div>");
+          doc.write("<table class='properties'>");
+          doc.write("<tr><th>Name</th><th>Value</th></tr>");
+          for (prop in TestCases[name]) {
+            doc.write("<tr><th>" + prop + "</th><td>" + TestCases[name][prop] + "</td></tr>");
+          }
+          doc.write("</table>");
+          doc.write("</body></html>");
+          doc.close();
+          win.focus();
+        }
+      
+      </script>
+</head>
+<body>
+<h1>Unit Test Results.</h1>
+<table width="100%">
+<tr>
+<td align="left"></td><td align="right">Designed for use with <a href="http://www.junit.org/">JUnit</a> and <a href="http://ant.apache.org/">Ant</a>.</td>
+</tr>
+</table>
+<hr size="1">
+<h3>Class TestTry.ConnectSqlTest</h3>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th width="80%">Name</th><th>Tests</th><th>Errors</th><th>Failures</th><th nowrap>Time(s)</th><th nowrap>Time Stamp</th><th>Host</th>
+</tr>
+<tr valign="top" class="Pass">
+<td><a title="Display all tests" href="0_ConnectSqlTest.html">ConnectSqlTest</a></td><td><a title="Display all tests" href="0_ConnectSqlTest.html">30</a></td><td>0</td><td>0</td><td>1.468</td><td>2011-05-11T16:45:46</td><td>Yves-PC</td>
+</tr>
+</table>
+<h2>Tests</h2>
+<table class="details" border="0" cellpadding="5" cellspacing="2" width="95%">
+<tr valign="top">
+<th>Name</th><th>Status</th><th width="80%">Type</th><th nowrap>Time(s)</th>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testOpenConnection"></a>testOpenConnection</td><td>Success</td><td></td><td>0.526</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testCloseConnection"></a>testCloseConnection</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testUpdateUserInfo"></a>testUpdateUserInfo</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectInfo"></a>testSelectInfo</td><td>Success</td><td></td><td>0.054</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectRecord"></a>testSelectRecord</td><td>Success</td><td></td><td>0.029</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectEquipmentString"></a>testSelectEquipmentString</td><td>Success</td><td></td><td>0.040</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSubstractEquipStringStringStringIntInt"></a>testSubstractEquipStringStringStringIntInt</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testModifyInfo"></a>testModifyInfo</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectMID"></a>testSelectMID</td><td>Success</td><td></td><td>0.034</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectSID"></a>testSelectSID</td><td>Success</td><td></td><td>0.032</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectid"></a>testSelectid</td><td>Success</td><td></td><td>0.028</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectAll"></a>testSelectAll</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testAddEquipment"></a>testAddEquipment</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testInsertTemp"></a>testInsertTemp</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testTruncateTemp"></a>testTruncateTemp</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectEquipmentStringString"></a>testSelectEquipmentStringString</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testShowEquipment"></a>testShowEquipment</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testShowEquipmentTemp"></a>testShowEquipmentTemp</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectCredit"></a>testSelectCredit</td><td>Success</td><td></td><td>0.013</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectRecord2"></a>testSelectRecord2</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testReturn"></a>testReturn</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectEquipment1"></a>testSelectEquipment1</td><td>Success</td><td></td><td>0.021</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectDepartment"></a>testSelectDepartment</td><td>Success</td><td></td><td>0.012</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSubstractEquipStringStringStringInt"></a>testSubstractEquipStringStringStringInt</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testModifyAmount"></a>testModifyAmount</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testModifyInfo2"></a>testModifyInfo2</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testDeleteEquipment"></a>testDeleteEquipment</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testSelectDeleteInfo"></a>testSelectDeleteInfo</td><td>Success</td><td></td><td>0.000</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testDeleteBookingInfo"></a>testDeleteBookingInfo</td><td>Success</td><td></td><td>0.001</td>
+</tr>
+<tr valign="top" class="TableRowColor">
+<td><a name="testJudgeExist"></a>testJudgeExist</td><td>Success</td><td></td><td>0.012</td>
+</tr>
+</table>
+<div class="Properties">
+<a href="javascript:displayProperties('TestTry.ConnectSqlTest');">
+                    Properties &raquo;
+                </a>
+</div>
+</body>
+</html>

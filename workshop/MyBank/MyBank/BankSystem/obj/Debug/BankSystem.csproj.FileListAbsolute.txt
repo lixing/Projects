@@ -1,0 +1,47 @@
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\BankSystem.exe
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\BankSystem.pdb
+C:\Users\computer\Desktop\d\BankSystem\bin\Debug\BankSystem.exe
+C:\Users\computer\Desktop\d\BankSystem\bin\Debug\BankSystem.pdb
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\BankSystem.FormMain.resources
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\BankSystem.FormWelcome.resources
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Users\computer\Desktop\d\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\BankSystem.exe
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\BankSystem.pdb
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\BankSystem.FormMain.resources
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\BankSystem.FormWelcome.resources
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\bin\Debug\BankSystem.exe
+C:\Documents and Settings\d830300023\My Documents\Downloads\MyBank\d\BankSystem\bin\Debug\BankSystem.pdb
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\BankSystem.exe
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\BankSystem.pdb
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\bin\Debug\BankSystem.exe
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\bin\Debug\BankSystem.pdb
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\BankSystem.FormMain.resources
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\BankSystem.FormWelcome.resources
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Documents and Settings\TEMP\My Documents\Downloads\MyBank1\MyBank\d\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\BankSystem.exe
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\BankSystem.pdb
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\bin\Debug\BankSystem.exe
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\bin\Debug\BankSystem.pdb
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\BankSystem.FormMain.resources
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\BankSystem.FormWelcome.resources
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\d\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\BankSystem.exe
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\BankSystem.pdb
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\bin\Debug\BankSystem.exe
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\bin\Debug\BankSystem.pdb
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\BankSystem.FormMain.resources
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\BankSystem.FormWelcome.resources
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
+C:\Documents and Settings\UIC\Desktop\MyBank2\0830300023\MyBank\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
+F:\Assignments\Year Two 2\MyBank\MyBank\BankSystem\obj\Debug\BankSystem.exe
+F:\Assignments\Year Two 2\MyBank\MyBank\BankSystem\obj\Debug\BankSystem.pdb

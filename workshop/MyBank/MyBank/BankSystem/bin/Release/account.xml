@@ -1,0 +1,16 @@
+<XMLConfigFile>
+  <A363158>
+    <AccountNumber>B123,B123,B123,B1234</AccountNumber>
+    <AccountType_B123>Certificate</AccountType_B123>
+    <Amount_B123>0</Amount_B123>
+    <AccountType_B1234>Certificate</AccountType_B1234>
+    <Amount_B1234>0</Amount_B1234>
+  </A363158>
+  <A549260>
+    <AccountNumber>B1234</AccountNumber>
+    <AccountType_B123>Checking</AccountType_B123>
+    <Amount_B123>0</Amount_B123>
+    <AccountType_B1234>Savings</AccountType_B1234>
+    <Amount_B1234>0</Amount_B1234>
+  </A549260>
+</XMLConfigFile>

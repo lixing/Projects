@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BankSystem">
+</Property><Property Name="Solution File" Value="C:\Users\computer\Desktop\d\BankSystem.sln">
+</Property><Property Name="User Options File" Value="C:\Users\computer\Desktop\d\BankSystem.suo">
+</Property><Property Name="Date" Value="2010年5月30日">
+</Property><Property Name="Time" Value="23:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BankSystem.sln" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BankSystem.suo" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem.suo">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\BankSystem.csproj" Description="Project file successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\BankSystem.csproj">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Account.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Account.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\AccountController.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\AccountController.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Customer.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Customer.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\CustomerController.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\CustomerController.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\FormMain.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\FormMain.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\FormMain.designer.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\FormMain.designer.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\FormWelcome.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\FormWelcome.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\FormWelcome.designer.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\FormWelcome.designer.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Program.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Program.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\XMLController.cs" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\XMLController.cs">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Properties\Settings.settings" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\FormMain.resx" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\FormMain.resx">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\FormWelcome.resx" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\FormWelcome.resx">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\Properties\Resources.resx" Description="File successfully backed up as C:\Users\computer\Desktop\d\Backup\BankSystem\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\BankSystem.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BankSystem" Source="BankSystem\BankSystem.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BankSystem.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BankSystem.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BankSystem" Source="BankSystem\BankSystem.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

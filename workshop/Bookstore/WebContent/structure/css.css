@@ -1,0 +1,124 @@
+
+body {font:12px Tahoma;margin:0px;text-align:center;background:#515031;
+}
+a:link {
+	color: #009999;
+	text-decoration: none;
+} 
+a:visited {
+	text-decoration: none;
+	color: #009999;
+}
+ a:hover { color:#000066; text-decoration:underline;}
+
+
+#container {width:960px; 
+           overflow:hidden;
+           margin:auto}
+           
+
+#Header {
+         background:url(header1.jpg) no-repeat;
+         width:1030px;
+         margin:auto; 
+         height:280px;
+         clear:both 
+         }
+#footer {
+	clear: both;
+	position: relative;
+    margin-left:-20px;
+    margin-bottom:0px;
+	width: 960px;
+	height: 80px;
+      }
+#footer ul {
+	padding: 5px 0 0 0;
+	margin: 0;
+	list-style: none;
+}
+
+#footer ul li{
+	display: inline;
+}
+
+#footer ul li a{
+	float: center;
+	padding: 0 40px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	background-color: #0083B3;
+	color:#ffffff;
+}
+
+#footer li a:hover, #menu li .current{
+	color: #FFFFFF;
+}
+
+#PageBody { 
+        width:960px; 
+        margin:auto; 
+        margin-right: auto;
+        margin-top: -25px;
+        margin-left: auto;
+          }
+#Sidebar {
+ background-color: #919191;
+ border: 1px solid #A9C9E2;
+ width:  140px;
+ height: auto;
+ min-height:450px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+ text-align:center;
+ float:left;
+ clear:left; 
+ overflow:hidden; 
+         }
+#Sidebar h1 { 
+background:url(button1.gif) no-repeat;
+color: #000000;
+margin:0px;
+bordercloor: #000000;
+padding:4px; 
+font-size:18px; 
+font-weight:bold;
+height:33px;
+font-family:Verdana; 
+border-top:1px solid #c5c6c4; 
+            }
+
+#Sidebar h2 { 
+margin:1px; 
+padding:4px; 
+font-size:15px; 
+font-family:Verdana; 
+font-weight:normal;
+ bordercloor: #000000;
+}
+#Sidebar h2 a { color:#000000; text-decoration:none;}
+#Sidebar h2 a:hover { color:#000000; text-decoration:underline;}
+
+
+
+#MainBody {
+
+ background-color: #FFFFFF;
+ border: 1px solid #A9C9E2;
+ bordercloor: #000000;
+ text-align:left;
+ height: 505px;
+ min-height:450px;
+}
+#MainBody2 {
+
+ background-color: #FFFFFF;
+ background:url(bg.jpg) ;
+ border: 1px solid #A9C9E2;
+ bordercloor: #000000;
+ text-align:left;
+ height: 505px;
+ min-height:450px;
+}
+#images img{width:200px;}
+

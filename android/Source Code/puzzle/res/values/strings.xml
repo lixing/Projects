@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+    <string name="app_name">Jigsaw</string>
+<string name="Shuffle">Shuffle</string>
+<string name="Show">Show step</string>
+<string name="resolve">Resolve</string>
+<string name="Exit">Exit</string>
+<string name="Introduction">Introduction</string>
+</resources>
